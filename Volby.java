@@ -1,4 +1,4 @@
-package domaci;
+package Domaci;
 import java.util.Scanner;
 
 public class Volby {
@@ -103,3 +103,4 @@ public class Volby {
         }
     }
 }
+
